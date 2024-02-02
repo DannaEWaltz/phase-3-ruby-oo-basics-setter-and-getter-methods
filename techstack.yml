@@ -1,0 +1,43 @@
+repo_name: DannaEWaltz/phase-3-ruby-oo-basics-setter-and-getter-methods
+report_id: 21b3ff99eac020a52b963653c24066f1
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-02T05:59:23+00:00'
+requested_by: ihollander
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/DannaEWaltz/phase-3-ruby-oo-basics-setter-and-getter-methods
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DannaEWaltz/phase-3-ruby-oo-basics-setter-and-getter-methods
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/DannaEWaltz/phase-3-ruby-oo-basics-setter-and-getter-methods/blob/master/.github/workflows/canvas-sync-html.yml
+  detection_source: ".github/workflows/canvas-sync-html.yml"
+  last_updated_by: ihollander
+  last_updated_on: 2021-07-10 17:26:46.000000000 Z
